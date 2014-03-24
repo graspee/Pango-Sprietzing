@@ -1,0 +1,8 @@
+file selection dialog
+maybe an autosave in case of crashes?
+
+printing characters out of bounds when the length of a sprite name is at max when 
+you load it in.
+
+
+
